@@ -26,7 +26,7 @@ Most of the contents of the note from the network, if any copyright issues, plea
 	* [02.06 字典和集合](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.06-dict-and-set.py) <br/>
 	* [02.07 可变和不可变类型](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02-07-mutable-and-immutable.md) <br/>
 	* [02.08 Python赋值机制](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.08-python-assignment.md) <br/>
-  * [02.09 判读语句]() <br/>
+  * [02.09 判断语句]() <br/>
   * [02.10 循环]() <br/>
   * [02.11 列表推导式]() <br/>
   * [02.12 函数]() <br/>
