@@ -28,8 +28,8 @@ Most of the contents of the note from the network, if any copyright issues, plea
 	* [02.08 Python赋值机制](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.08-python-assignment.md) <br/>
   * [02.09 判读语句]() <br/>
   * [02.10 循环]() <br/>
-	* [02.11 列表推导式]() <br/>
-	* [02.12 函数]() <br/>
-	* [02.13 模块与包]() <br/>
-	* [02.14 异常与警告]() <br/>
-	* [02.15 文件读写]() <br/>
+  * [02.11 列表推导式]() <br/>
+  * [02.12 函数]() <br/>
+  * [02.13 模块与包]() <br/>
+  * [02.14 异常与警告]() <br/>
+  * [02.15 文件读写]() <br/>
