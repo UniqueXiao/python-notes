@@ -24,12 +24,12 @@ Most of the contents of the note from the network, if any copyright issues, plea
 	* [02.04 字符串](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.04-strings.py) <br/>
 	* [02.05 列表和元组](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.05-list-and-tuple.py) <br/>
 	* [02.06 字典和集合](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.06-dict-and-set.py) <br/>
-	* [02.07 可变和不可变类型](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02-07-mutable-and-immutable.md) <br/>
+	* [02.07 可变和不可变类型](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.07-mutable-and-immutable.md) <br/>
 	* [02.08 Python赋值机制](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.08-python-assignment.md) <br/>
-  * [02.09 判断语句]() <br/>
-  * [02.10 循环]() <br/>
-  * [02.11 列表推导式]() <br/>
-  * [02.12 函数]() <br/>
-  * [02.13 模块与包]() <br/>
-  * [02.14 异常与警告]() <br/>
-  * [02.15 文件读写]() <br/>
+  * [02.09 判断语句](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.09-if-statement.py) <br/>
+  * [02.10 循环](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.10-loops.py) <br/>
+  * [02.11 列表推导式](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.11-list-comprehension.py) <br/>
+  * [02.12 函数](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.12-functions.py) <br/>
+  * [02.13 模块与包](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.13-modules-and-packages.py) <br/>
+  * [02.14 异常与警告](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.14-exceptions-and-warnings.py) <br/>
+  * [02.15 文件读写](https://github.com/UniqueXiao/python-notes/blob/master/02-python-basis/02.15-file-IO.py) <br/>
